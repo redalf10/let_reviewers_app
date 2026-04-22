@@ -1,0 +1,165 @@
+[
+    {
+        "question": "The teacher-adviser 'monitors' the class activities of his pupils.",
+        "options": [
+            "Demands",
+            "Identifies",
+            "Observes",
+            "regulates"
+        ],
+        "correctAnswer": "Observes",
+        "questionNumber": 1
+    },
+    {
+        "question": "There is a need to 'renovate' the old school building to avoid future accidents.",
+        "options": [
+            "repair",
+            "restore",
+            "repaint",
+            "redecorate"
+        ],
+        "correctAnswer": "repair",
+        "questionNumber": 2
+    },
+    {
+        "question": "The athlete was in a 'sanguine' mood after the ball game",
+        "options": [
+            "Frustrating",
+            "sad",
+            "happy",
+            "discouraging"
+        ],
+        "correctAnswer": "happy",
+        "questionNumber": 3
+    },
+    {
+        "question": "There is a need for an 'amicable' settlement between the parent and the teacher",
+        "options": [
+            "embarrassing",
+            "peaceful",
+            "humble",
+            "continuing"
+        ],
+        "correctAnswer": "peaceful",
+        "questionNumber": 4
+    },
+    {
+        "question": "There is an 'altercation' going on between the teacher and principal in the office.",
+        "options": [
+            "dispute",
+            "settlement",
+            "competition",
+            "jealousy"
+        ],
+        "correctAnswer": "dispute",
+        "questionNumber": 5
+    },
+    {
+        "question": "The English teacher is 'proficient' in her teaching.",
+        "options": [
+            "effective",
+            "engrossed",
+            "expert",
+            "perfect"
+        ],
+        "correctAnswer": "expert",
+        "questionNumber": 6
+    },
+    {
+        "question": "Stipulate in your constitution and by-laws the qualified of the officers.",
+        "options": [
+            "specify",
+            "fasten",
+            "attach",
+            "underline"
+        ],
+        "correctAnswer": "specify",
+        "questionNumber": 7
+    },
+    {
+        "question": "'Integrate' values in all your subject areas",
+        "options": [
+            "remove",
+            "decrease",
+            "include into",
+            "criticize"
+        ],
+        "correctAnswer": "include into",
+        "questionNumber": 8
+    },
+    {
+        "question": "His 'preposterous' reason made him the talk of the campus.",
+        "options": [
+            "magnificent",
+            "funny",
+            "ridiculous",
+            "positive"
+        ],
+        "correctAnswer": "ridiculous",
+        "questionNumber": 9
+    },
+    {
+        "question": "The singer was 'fidgety' as the judges were deciding on the winner.",
+        "options": [
+            "appealing",
+            "restlessly",
+            "with love",
+            "none of these"
+        ],
+        "correctAnswer": "restlessly",
+        "questionNumber": 10
+    },
+    {
+        "question": "He was 'deprive' of a mother's love",
+        "options": [
+            "satisfied",
+            "chosen",
+            "debarred",
+            "given"
+        ],
+        "correctAnswer": "debarred",
+        "questionNumber": 11
+    },
+    {
+        "question": "The 'flagrant' pupils came shouting with stones in their hands.",
+        "options": [
+            "industrious",
+            "notorious",
+            "group of pupils",
+            "intelligent"
+        ],
+        "correctAnswer": "notorious",
+        "questionNumber": 12
+    },
+    {
+        "question": "There was a question of 'fraud' among the notorious pupils who took the special examination.",
+        "options": [
+            "cheating",
+            "unfairness",
+            "injustice",
+            "favoritism"
+        ],
+        "correctAnswer": "cheating",
+        "questionNumber": 13
+    },
+    {
+        "question": "Her answer was 'explicable' in public",
+        "options": [
+            "undetermined",
+            "unacceptable",
+            "can be explained",
+            "unreasonable"
+        ],
+        "correctAnswer": "can be explained",
+        "questionNumber": 14
+    },
+    {
+        "question": "Everybody in the gymnasium _____ frustrated when the candidate did not appear in public.",
+        "options": [
+            "was",
+            "were"
+        ],
+        "correctAnswer": "was",
+        "questionNumber": 15
+    }
+]

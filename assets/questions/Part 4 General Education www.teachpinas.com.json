@@ -1,0 +1,168 @@
+[
+    {
+        "question": "In one of his poems, the Filipino author Zulueta da Costa said that the Filipinos are like the Molave. What figure of speech was used?",
+        "options": [
+            "simile",
+            "personification",
+            "metaphor",
+            "hyperbole"
+        ],
+        "correctAnswer": "simile",
+        "questionNumber": 1
+    },
+    {
+        "question": "Helen of Troy is the face who launched a thousand ships. What figure of speech is used in the given sentence?",
+        "options": [
+            "ellipsis",
+            "synecdoche",
+            "alliteration",
+            "irony"
+        ],
+        "correctAnswer": "synecdoche",
+        "questionNumber": 2
+    },
+    {
+        "question": "Si Ana at Ariadne ay masisipag na mag-aaral. Ano ang mali sa pangungusap?",
+        "options": [
+            "Si",
+            "at",
+            "masisipag",
+            "mag-aaral",
+            "Walang mali"
+        ],
+        "correctAnswer": "Walang mali",
+        "questionNumber": 3
+    },
+    {
+        "question": "________ mo ng mga damit ang iyong kapatid sa dormitory.",
+        "options": [
+            "Dalhin",
+            "Dalahin",
+            "Dalhan",
+            "Dadalahin"
+        ],
+        "correctAnswer": "Dalhan",
+        "questionNumber": 4
+    },
+    {
+        "question": "________ sa batas, hindi maaaring isakdal ng dalawang beses ang isang akusado para sa iisang pagkakasala.",
+        "options": [
+            "Maliban",
+            "Ayon",
+            "Ayon kay",
+            "Marahil"
+        ],
+        "correctAnswer": "Ayon",
+        "questionNumber": 5
+    },
+    {
+        "question": "nawalang-malay : hinimatay : : naghihingalo : ______",
+        "options": [
+            "nasa bingit ng kamatayan",
+            "namatay",
+            "napagod",
+            "nahihilo"
+        ],
+        "correctAnswer": "nasa bingit ng kamatayan",
+        "questionNumber": 6
+    },
+    {
+        "question": "Isahan : gaano : : _______",
+        "options": [
+            "maramihan : gaa-gaano",
+            "maramihan : gaanu-ano",
+            "maramihan : gaga-gaano",
+            "maramihan : ganu-ano"
+        ],
+        "correctAnswer": "maramihan : gaa-gaano",
+        "questionNumber": 7
+    },
+    {
+        "question": "Masalimuot ang buhay ng taong kapit sa patalim.",
+        "options": [
+            "malungkot",
+            "masaya",
+            "magulo",
+            "mapayapa"
+        ],
+        "correctAnswer": "magulo",
+        "questionNumber": 8
+    },
+    {
+        "question": "Naglipana sa lansangan ang masamang-loob lalo na kung gabi.",
+        "options": [
+            "namasyal",
+            "nagkalat",
+            "nagtatago",
+            "nagmuni-muni"
+        ],
+        "correctAnswer": "nagkalat",
+        "questionNumber": 9
+    },
+    {
+        "question": "Siya ang 'Ama ng Zarsuelang Tagalog'?",
+        "options": [
+            "Aurelio Tolentino",
+            "N.V.M Gonzalez",
+            "Alejandro Abadilla",
+            "Severino Reyes"
+        ],
+        "correctAnswer": "Severino Reyes",
+        "questionNumber": 10
+    },
+    {
+        "question": "Alin sa mga sumusunod ang HINDI epiko ng Mindanao?",
+        "options": [
+            "Indarapatra at Sulayman",
+            "Alim",
+            "Bidasari",
+            "Bantugan"
+        ],
+        "correctAnswer": "Bidasari",
+        "questionNumber": 11
+    },
+    {
+        "question": "Ang titik 'ng' sa Alpabetong Filipino ay nagmula sa alpabetong _____.",
+        "options": [
+            "Ingles",
+            "Abecedario",
+            "Romano",
+            "Abakada"
+        ],
+        "correctAnswer": "Abecedario",
+        "questionNumber": 12
+    },
+    {
+        "question": "Ilang titik ang hiniram ng Alpabetong Filipino mula sa Alpabetong Ingles?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "correctAnswer": "8",
+        "questionNumber": 13
+    },
+    {
+        "question": "Aling salita ang klaster?",
+        "options": [
+            "palma",
+            "basta",
+            "pluma",
+            "basket"
+        ],
+        "correctAnswer": "pluma",
+        "questionNumber": 14
+    },
+    {
+        "question": "\"Ang aking pag-ibig ay tanging sa iyo lamang.\" Ibigay ang ayos ng pangungusap na ito.",
+        "options": [
+            "payak",
+            "tambalan",
+            "karaniwan",
+            "di-karaniwan"
+        ],
+        "correctAnswer": "di-karaniwan",
+        "questionNumber": 15
+    }
+]

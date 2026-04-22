@@ -1,0 +1,167 @@
+[
+    {
+        "question": "Which of the following statements is definitely true about the nature of science?",
+        "options": [
+            "Science will help make the world a better place to live in.",
+            "Science can always uncover the truth in the realm of nature.",
+            "Scientific work requires a dedication that excludes the lives of people in other fields of work.",
+            "Theories in science can be disproved by testing: a well established theory can be demolished with a single observation."
+        ],
+        "correctAnswer": "Science will help make the world a better place to live in.",
+        "questionNumber": 1
+    },
+    {
+        "question": "Which of the following processes is best associated with technology than with science?",
+        "options": [
+            "designing for a need",
+            "uncovering natural phenomena",
+            "discovering the nature of matter",
+            "constructing concepts, principles and laws"
+        ],
+        "correctAnswer": "designing for a need",
+        "questionNumber": 2
+    },
+    {
+        "question": "Which of the following statements best describes the connection between science and technology?",
+        "options": [
+            "Scientist use the laws and principles discovered by technologists.",
+            "Technology is the part of science that deals with mechanical problems.",
+            "Technology involves the practical applications of scientific knowledge.",
+            "Science depends on technology for ideas and the organization of experimental work."
+        ],
+        "correctAnswer": "Technology involves the practical applications of scientific knowledge.",
+        "questionNumber": 3
+    },
+    {
+        "question": "Which of the following is a technological concept rather than a scientific concept?",
+        "options": [
+            "Tungsten has a high melting point.",
+            "Metals are good conductors of heat.",
+            "Resistance is inversely proportional to current.",
+            "Fluorescent lamps are improved through methods of manufacturing."
+        ],
+        "correctAnswer": "Fluorescent lamps are improved through methods of manufacturing.",
+        "questionNumber": 4
+    },
+    {
+        "question": "You want to add exactly 35.00 g of salt to a solution. What instrument must you use to measure this amount?",
+        "options": [
+            "beaker",
+            "thermometer",
+            "graduated cylinder",
+            "triple beam balance"
+        ],
+        "correctAnswer": "triple beam balance",
+        "questionNumber": 5
+    },
+    {
+        "question": "Young people stand straight. Very old ones usually stoop. Why?",
+        "options": [
+            "Sedentary lives of the old.",
+            "Habit of stooping developed in the old.",
+            "Greater gravitational pull on the old than on the young.",
+            "Bones of the old have become weak and soft and their joints become loose."
+        ],
+        "correctAnswer": "Bones of the old have become weak and soft and their joints become loose.",
+        "questionNumber": 6
+    },
+    {
+        "question": "Why is it not quite possible for viruses to live and multiply in the outer layers of our skin?",
+        "options": [
+            "The outer layer of the skin has dead cells only.",
+            "The outer layer of the skin has oil which is harmful to viruses.",
+            "The outer layer of the skin has a lower temperature unsuitable for viruses.",
+            "The outer layer of the skin has salt from perspiration which is harmful to viruses."
+        ],
+        "correctAnswer": "The outer layer of the skin has dead cells only.",
+        "questionNumber": 7
+    },
+    {
+        "question": "Alcohol thermometer works on the principle that",
+        "options": [
+            "Volume usually increases with pressure.",
+            "Temperature usually increases with density.",
+            "Volume usually increases with temperature.",
+            "Temperature usually increases with pressure."
+        ],
+        "correctAnswer": "Volume usually increases with temperature.",
+        "questionNumber": 8
+    },
+    {
+        "question": "Which of the following is an important factor in explaining why seasons occur?",
+        "options": [
+            "Earth's axis is tilted.",
+            "The sun's axis is tilted.",
+            "Earth rotates on its axis.",
+            "The sun rotates on its axis."
+        ],
+        "correctAnswer": "Earth's axis is tilted.",
+        "questionNumber": 9
+    },
+    {
+        "question": "To preserve the fertility of the soil, farmer should employ the following except",
+        "options": [
+            "strip cropping",
+            "continuous farming",
+            "terracing",
+            "contour farming"
+        ],
+        "correctAnswer": "continuous farming",
+        "questionNumber": 10
+    },
+    {
+        "question": "How can the presence of a person afflicted with HIV and/or AIDS be handled?",
+        "options": [
+            "Discreetly reporting the case to health authorities.",
+            "Conducting home forum to discuss the identification of AIDS cases.",
+            "Avoid and discourage patronage of places frequented by these persons.",
+            "Discourage the establishment of recreation centers like cabarets and discos."
+        ],
+        "correctAnswer": "Discreetly reporting the case to health authorities.",
+        "questionNumber": 11
+    },
+    {
+        "question": "The following describe chemical change except",
+        "options": [
+            "A chemical change takes place when a solid is changed to liquid then changed to gas",
+            "For a chemical change to take place, heat, light, or electricity is either needed or given off.",
+            "Some examples of chemical change are souring of milk, ripening of fruit, and digestion of food.",
+            "In a chemical change, a new substance is formed, with chemical properties that are different from the original substance."
+        ],
+        "correctAnswer": "A chemical change takes place when a solid is changed to liquid then changed to gas",
+        "questionNumber": 12
+    },
+    {
+        "question": "Where do we trace the El Nino phenomenon?",
+        "options": [
+            "rising ocean levels",
+            "very severe earthquakes",
+            "annual changes in seasons",
+            "thinning or depletion of the ozone layer"
+        ],
+        "correctAnswer": "annual changes in seasons",
+        "questionNumber": 13
+    },
+    {
+        "question": "Why does the greenhouse effect result to warmer temperature near the earth's surface?",
+        "options": [
+            "clouds trap infrared radiation",
+            "soil absorbs incoming radiation",
+            "ozone traps ultraviolet radiation",
+            "carbon dioxide traps infrared radiation"
+        ],
+        "correctAnswer": "carbon dioxide traps infrared radiation",
+        "questionNumber": 14
+    },
+    {
+        "question": "Why do people feel warmer just before it rains?",
+        "options": [
+            "Heat released by the condensation of water vapor.",
+            "The clouds prevent heat from escaping the earth.",
+            "The increased relative humidity makes them feel warmer.",
+            "The warming is due to the heat absorbed by the evaporation of water."
+        ],
+        "correctAnswer": "Heat released by the condensation of water vapor.",
+        "questionNumber": 15
+    }
+]

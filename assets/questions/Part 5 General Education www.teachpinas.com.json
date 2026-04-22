@@ -1,0 +1,113 @@
+[
+  {
+    "question": "Army men who are rescued from insurgent kidnap undergo medical check-up. Why is this done?",
+    "options": [
+      "To protect the prisoner from further harassment",
+      "To avoid relapses from illness while in hiding",
+      "To determine the physical and mental state of the army man",
+      "To determine the loyalty of this army man"
+    ],
+    "correctAnswer": "To determine the physical and mental state of the army man",
+    "questionNumber": 1
+  },
+  {
+    "question": "The reporter was accused in court because of his story. The story was ______.",
+    "options": [
+      "Tainted with malice",
+      "A narration of facts",
+      "Too personal to take",
+      "Full of distorted facts"
+    ],
+    "correctAnswer": "Full of distorted facts",
+    "questionNumber": 2
+  },
+  {
+    "question": "The menace of drugs has affected the Philippines economy greatly. Which of these drugs are found most destructive to one’s brain?",
+    "options": [
+      "Opium",
+      "Marijuana",
+      "Methyl salicylate",
+      "Shabu"
+    ],
+    "correctAnswer": "Shabu",
+    "questionNumber": 3
+  },
+  {
+    "question": "Miss Victoria has many children. Her husband decided to send them to Manila and seek jobs. The eldest child is only 16 years old. What right is violated by the father?",
+    "options": [
+      "Right of family to family living wage",
+      "Right to education",
+      "Right of the children to work and exploitation",
+      "Right of the children to assistance, proper care and attention"
+    ],
+    "correctAnswer": "Right of the children to assistance, proper care and attention",
+    "questionNumber": 4
+  },
+  {
+    "question": "A prisoner was made to confess his guilt. A lawyer of the respondent was present in the confession. What was violated?",
+    "options": [
+      "The confession was without due consultant",
+      "The prisoner was approached properly",
+      "The prisoner should have a lawyer of his choice",
+      "The choice of the lawyer was made by the accuser"
+    ],
+    "correctAnswer": "The prisoner should have a lawyer of his choice",
+    "questionNumber": 5
+  },
+  {
+    "question": "The hostage victims were heard asking the rescuers to hold on to the fort. What was the message?",
+    "options": [
+      "Disregard the peace negotiation",
+      "Rescue them fast and early",
+      "Surrender in arms",
+      "Keep on with the fight"
+    ],
+    "correctAnswer": "Keep on with the fight",
+    "questionNumber": 6
+  },
+  {
+    "question": "When do doctors declare dengue fever as an epidemic?",
+    "options": [
+      "When everyone is suffering from a cold",
+      "When two are hospitalized from the neighborhood",
+      "When the proportion of patients reach at least 15% of the population",
+      "When every household of fine houses are sick with high fever"
+    ],
+    "correctAnswer": "When the proportion of patients reach at least 15% of the population",
+    "questionNumber": 7
+  },
+  {
+    "question": "Parents are worried about student’s interest in internet. What is the most safeguard?",
+    "options": [
+      "Check on learners interest while surfing",
+      "Allow internet only after classes",
+      "Supervise Internet use with parents consent",
+      "Allow students use of Internet instead of using library books"
+    ],
+    "correctAnswer": "Supervise Internet use with parents consent",
+    "questionNumber": 8
+  },
+  {
+    "question": "Families of OFW meet a lot of conflict. How does the government address this?",
+    "options": [
+      "Increase insurance benefits",
+      "Encourage more opportunities for OFW",
+      "Provide scholarship for husband left behind to study",
+      "Creation of skills development centers for OFW"
+    ],
+    "correctAnswer": "Creation of skills development centers for OFW",
+    "questionNumber": 9
+  },
+  {
+    "question": "How does the Department of Science and Technology assure quality science teaching in secondary schools?",
+    "options": [
+      "Open up science high school in every province",
+      "Share researches and distributes equipment to schools",
+      "Carry one science fair every year",
+      "Maintain a scholarship grant for deserving science and mathematics teachers"
+    ],
+    "correctAnswer": "Share researches and distributes equipment to schools",
+    "questionNumber": 10
+  }
+  
+]

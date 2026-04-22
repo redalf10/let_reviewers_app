@@ -1,0 +1,111 @@
+[
+    {
+        "question": "Let us campaign for the total ban ____________ of harmful insecticides.",
+        "options": [
+            "With the use",
+            "On using",
+            "on the use",
+            "with using"
+        ],
+        "correctAnswer": "on the use",
+        "questionNumber": 1
+    },
+    {
+        "question": "\"Your statements are IMPERTINENT to the case.\" The capitalized word means ______________.",
+        "options": [
+            "Important",
+            "Irrelevant",
+            "Violent",
+            "malicious"
+        ],
+        "correctAnswer": "Irrelevant",
+        "questionNumber": 2
+    },
+    {
+        "question": "Imprisoned for 27 years, Nelson Mandela realized his dream of a free and non-racial South Africa by forgiving his oppressors and negotiating in good faith for the peaceful transition to democracy. Nelson Mandela demonstrated his trait of ________________.",
+        "options": [
+            "Friendliness",
+            "Determination",
+            "forgiving",
+            "loyalty"
+        ],
+        "correctAnswer": "Determination",
+        "questionNumber": 3
+    },
+    {
+        "question": "In William Shakespeare's \"Merchant of Venice,\" Portia, the judge said: \"The quality of mercy is not strained; it droppeth as the gentle rain from heaven upon the place beneath... It is twice blest; it blesseth him that gives and him that takes. 'Tis mightier than the mightiest... and one is likened to God when mercy seasons justice.\" The main thought of the excerpt it that ___________________",
+        "options": [
+            "Mercy is only for deserving",
+            "Mercy is limited in extent",
+            "Mercy is spontaneous and freely given."
+        ],
+        "correctAnswer": "Mercy is spontaneous and freely given.",
+        "questionNumber": 4
+    },
+    {
+        "question": "Who was the first editor of La Solidaridad?",
+        "options": [
+            "Juan Luna",
+            "Graciano Lopez Jaena",
+            "Jose Rizal",
+            "Marcelo H. Del Pilar"
+        ],
+        "correctAnswer": "Graciano Lopez Jaena",
+        "questionNumber": 5
+    },
+    {
+        "question": "A hypothetical ecosystem contains lettuce (the producer), a caterpillar (the primary consumer), a small passerine bird (the secondary consumer) and a lion (the tertiary consumer). A gardener arrives and sprays pesticide, killing all the caterpillars. What can happen to the ecosystem?",
+        "options": [
+            "The passerine birds will thrive.",
+            "The lions will eventually die.",
+            "the passerine birds will convert to herbivores.",
+            "the lettuce will wilt and die."
+        ],
+        "correctAnswer": "The lions will eventually die.",
+        "questionNumber": 6
+    },
+    {
+        "question": "Among models of reading strategies, what did student Jk adopt when she reads back and forth, attending to both what is in her mind and what's on the page?",
+        "options": [
+            "Bottoms-up",
+            "Interactive",
+            "Down-top",
+            "Top-down"
+        ],
+        "correctAnswer": "Interactive",
+        "questionNumber": 7
+    },
+    {
+        "question": "If threat of punishment is necessary on erring students, how should this best be done?",
+        "options": [
+            "Make the threat and reinforce with warning",
+            "Make the threat with immediate punishment",
+            "Warn and threat at the same time",
+            "First a warning before the threat"
+        ],
+        "correctAnswer": "First a warning before the threat",
+        "questionNumber": 8
+    },
+    {
+        "question": "When USA decided to drop the atomic bomb to Nagasaki in order to stop the land invasion of Japan, what degree of moral certitude can describe this decision of USA?",
+        "options": [
+            "Doubtful",
+            "Perflexed",
+            "Certain",
+            "Callous"
+        ],
+        "correctAnswer": "Certain",
+        "questionNumber": 9
+    },
+    {
+        "question": "Isang dulog pampatikan na kung saan ang pagpapakahulugan sa isang tekstong binasa ay nakapokus sa sariling panlasa ng mambabasa at kilala rin sa katawagan na reader response theory.",
+        "options": [
+            "Impresyonista",
+            "Patalambuhay",
+            "antropolohiya",
+            "pansikolohiya"
+        ],
+        "correctAnswer": "Impresyonista",
+        "questionNumber": 10
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "question": "A priest gave all his possessions to disabled children. What right may they claim?",
+        "options": [
+            "Right to just treatment",
+            "Right to proper treatment",
+            "Right of disable to equal treatment",
+            "Right to disabled to equal protection"
+        ],
+        "correctAnswer": "Right of disable to equal treatment",
+        "questionNumber": 1
+    },
+    {
+        "question": "The mother remarked, 'I am used to the same tales'. This means:",
+        "options": [
+            "This is very original",
+            "There is nothing new in the story",
+            "There is a miscommunication",
+            "This is a news"
+        ],
+        "correctAnswer": "There is nothing new in the story",
+        "questionNumber": 2
+    },
+    {
+        "question": "How do you convert the statement 'the rebels wanted to surrender' to a question? Which is the most appropriate?",
+        "options": [
+            "The rebels wanted to surrender, do they?",
+            "The rebels surrender, did they?",
+            "The rebels wanted to surrender, didn't they?",
+            "What did the rebels want?"
+        ],
+        "correctAnswer": "The rebels wanted to surrender, didn't they?",
+        "questionNumber": 3
+    },
+    {
+        "question": "The best direction for treating bamboo shoots is ______",
+        "options": [
+            "Expose to windy heights",
+            "Dry and brush with chemicals",
+            "Dry by mulchings",
+            "Expose all to direct sunlight"
+        ],
+        "correctAnswer": "Dry by mulchings",
+        "questionNumber": 4
+    },
+    {
+        "question": "A field commander gave his orders. He meant drop previous order. Which message was heard?",
+        "options": [
+            "Repeat! Repeat!",
+            "Negative! Delete!",
+            "Copy! Copy!",
+            "Over! Over!"
+        ],
+        "correctAnswer": "Negative! Delete!",
+        "questionNumber": 5
+    },
+    {
+        "question": "Which of these capitalized words do not rhyme?",
+        "options": [
+            "That's not easy to BEAR",
+            "Let's give a CHEER",
+            "I know it CLEAR",
+            "It shows, it's SHEER truth"
+        ],
+        "correctAnswer": "That's not easy to BEAR",
+        "questionNumber": 6
+    },
+    {
+        "question": "What is the reaction of the shop teacher upon seeing the tools scattered?",
+        "options": [
+            "That's very kind of you",
+            "Leave your tools alone",
+            "It's all right, you may go",
+            "Return your tools to the property clerk"
+        ],
+        "correctAnswer": "Return your tools to the property clerk",
+        "questionNumber": 7
+    },
+    {
+        "question": "Which sentence uses a preposition improperly?",
+        "options": [
+            "She came ON to attend the hearing",
+            "The accident happened On his birthday",
+            "The witness was barely IN time for the affair",
+            "Tell her to be ON time"
+        ],
+        "correctAnswer": "She came ON to attend the hearing",
+        "questionNumber": 8
+    },
+    {
+        "question": "A message was sent by the chief of office. What should the subordinate answer? Choose the best response.",
+        "options": [
+            "rights",
+            "Noted, Sir",
+            "Sorry, I'm busy sir",
+            "I'll verify Sir"
+        ],
+        "correctAnswer": "Noted, Sir",
+        "questionNumber": 9
+    },
+    {
+        "question": "During the eruption of Mayon Volcano, what message was sent to the barangay folks?",
+        "options": [
+            "Wait for final order of the chief",
+            "Get ready!",
+            "Everybody leave your carabaos",
+            "Everybody call. Everyone evacuate the area"
+        ],
+        "correctAnswer": "Everybody call. Everyone evacuate the area",
+        "questionNumber": 10
+    }
+]
