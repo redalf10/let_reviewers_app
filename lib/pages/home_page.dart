@@ -7,6 +7,7 @@ import 'package:image_picker/image_picker.dart';
 import 'package:jaa_reviewer/model/quotes_model.dart';
 import 'package:jaa_reviewer/model/subject_model.dart';
 import 'package:jaa_reviewer/pages/components/subject_selection.dart';
+import 'package:jaa_reviewer/pages/local_tutor_page.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:path/path.dart' as path; // Add this import
@@ -778,6 +779,49 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
                     ],
                   ),
                 ),
+
+                Padding(
+                  padding: const EdgeInsets.symmetric(horizontal: 20),
+                  child: InkWell(
+                    borderRadius: BorderRadius.circular(16),
+                    onTap: () => Navigator.push(
+                      context,
+                      MaterialPageRoute(builder: (_) => const LocalTutorPage()),
+                    ),
+                    child: Container(
+                      width: double.infinity,
+                      padding: const EdgeInsets.all(18),
+                      decoration: BoxDecoration(
+                        color: Colors.white,
+                        borderRadius: BorderRadius.circular(16),
+                        border: Border.all(color: Colors.pinkAccent.shade100),
+                      ),
+                      child: const Row(
+                        children: [
+                          Icon(Icons.psychology_alt,
+                              color: Colors.pinkAccent, size: 30),
+                          SizedBox(width: 14),
+                          Expanded(
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Text('Ask the offline AI Tutor',
+                                    style: TextStyle(
+                                        fontWeight: FontWeight.bold,
+                                        fontSize: 16)),
+                                SizedBox(height: 3),
+                                Text('Search answers in your study guides'),
+                              ],
+                            ),
+                          ),
+                          Icon(Icons.arrow_forward_ios,
+                              color: Colors.pinkAccent, size: 16),
+                        ],
+                      ),
+                    ),
+                  ),
+                ),
+                const SizedBox(height: 24),
 
                 // const SizedBox(height: 32),
 
