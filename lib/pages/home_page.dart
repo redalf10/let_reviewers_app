@@ -7,7 +7,6 @@ import 'package:image_picker/image_picker.dart';
 import 'package:jaa_reviewer/model/quotes_model.dart';
 import 'package:jaa_reviewer/model/subject_model.dart';
 import 'package:jaa_reviewer/pages/components/subject_selection.dart';
-import 'package:jaa_reviewer/pages/local_tutor_page.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:path/path.dart' as path; // Add this import
@@ -742,7 +741,7 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
                     borderRadius: BorderRadius.circular(20),
                     boxShadow: [
                       BoxShadow(
-                        color: Colors.pinkAccent.withOpacity(0.3),
+                        color: Colors.pinkAccent.withValues(alpha: 0.3),
                         blurRadius: 20,
                         offset: const Offset(0, 10),
                       ),
@@ -773,55 +772,12 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
                         'Good Luck, AJA!',
                         style: TextStyle(
                           fontSize: 14,
-                          color: Colors.white.withOpacity(0.9),
+                          color: Colors.white.withValues(alpha: 0.9),
                         ),
                       ),
                     ],
                   ),
                 ),
-
-                Padding(
-                  padding: const EdgeInsets.symmetric(horizontal: 20),
-                  child: InkWell(
-                    borderRadius: BorderRadius.circular(16),
-                    onTap: () => Navigator.push(
-                      context,
-                      MaterialPageRoute(builder: (_) => const LocalTutorPage()),
-                    ),
-                    child: Container(
-                      width: double.infinity,
-                      padding: const EdgeInsets.all(18),
-                      decoration: BoxDecoration(
-                        color: Colors.white,
-                        borderRadius: BorderRadius.circular(16),
-                        border: Border.all(color: Colors.pinkAccent.shade100),
-                      ),
-                      child: const Row(
-                        children: [
-                          Icon(Icons.psychology_alt,
-                              color: Colors.pinkAccent, size: 30),
-                          SizedBox(width: 14),
-                          Expanded(
-                            child: Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
-                                Text('Ask the offline AI Tutor',
-                                    style: TextStyle(
-                                        fontWeight: FontWeight.bold,
-                                        fontSize: 16)),
-                                SizedBox(height: 3),
-                                Text('Search answers in your study guides'),
-                              ],
-                            ),
-                          ),
-                          Icon(Icons.arrow_forward_ios,
-                              color: Colors.pinkAccent, size: 16),
-                        ],
-                      ),
-                    ),
-                  ),
-                ),
-                const SizedBox(height: 24),
 
                 // const SizedBox(height: 32),
 
@@ -881,7 +837,7 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
                                       boxShadow: [
                                         BoxShadow(
                                           color: subject.gradientColors.first
-                                              .withOpacity(0.3),
+                                              .withValues(alpha: 0.3),
                                           blurRadius: 15,
                                           offset: const Offset(0, 8),
                                         ),
@@ -892,8 +848,8 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
                                         Container(
                                           padding: const EdgeInsets.all(12),
                                           decoration: BoxDecoration(
-                                            color:
-                                                Colors.white.withOpacity(0.2),
+                                            color: Colors.white
+                                                .withValues(alpha: 0.2),
                                             borderRadius:
                                                 BorderRadius.circular(12),
                                           ),
@@ -923,7 +879,7 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
                                                 style: TextStyle(
                                                   fontSize: 14,
                                                   color: Colors.white
-                                                      .withOpacity(0.8),
+                                                      .withValues(alpha: 0.8),
                                                 ),
                                               ),
                                             ],
@@ -932,8 +888,8 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
                                         Container(
                                           padding: const EdgeInsets.all(8),
                                           decoration: BoxDecoration(
-                                            color:
-                                                Colors.white.withOpacity(0.2),
+                                            color: Colors.white
+                                                .withValues(alpha: 0.2),
                                             borderRadius:
                                                 BorderRadius.circular(8),
                                           ),

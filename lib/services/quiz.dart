@@ -265,7 +265,7 @@ class _QuizPageState extends State<QuizPage> with TickerProviderStateMixin {
         if (q['question'] == null ||
             q['options'] == null ||
             q['correctAnswer'] == null) {
-          throw FormatException('Invalid question format');
+          throw const FormatException('Invalid question format');
         }
 
         return QuizQuestion(
@@ -762,7 +762,7 @@ class ResultDialog extends StatelessWidget {
             Container(
               padding: const EdgeInsets.all(16),
               decoration: BoxDecoration(
-                color: Colors.white.withOpacity(0.2),
+                color: Colors.white.withValues(alpha: 0.2),
                 borderRadius: BorderRadius.circular(12),
               ),
               child: Column(
@@ -840,7 +840,7 @@ class ResultDialog extends StatelessWidget {
                       Navigator.pop(context);
                     },
                     style: ElevatedButton.styleFrom(
-                      backgroundColor: Colors.white.withOpacity(0.2),
+                      backgroundColor: Colors.white.withValues(alpha: 0.2),
                       foregroundColor: Colors.white,
                       padding: const EdgeInsets.symmetric(vertical: 12),
                     ),

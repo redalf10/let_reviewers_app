@@ -29,7 +29,7 @@ class DrawingPoint {
   Map<String, dynamic> toJson() => {
         'dx': point.dx,
         'dy': point.dy,
-        'color': color.value,
+        'color': color.toARGB32(),
         'strokeWidth': strokeWidth,
         'mode': mode.index,
       };
@@ -57,7 +57,7 @@ class DrawingStroke {
 
   Map<String, dynamic> toJson() => {
         'points': points.map((p) => p.toJson()).toList(),
-        'color': color.value,
+        'color': color.toARGB32(),
         'strokeWidth': strokeWidth,
         'mode': mode.index,
       };
@@ -310,7 +310,7 @@ class _PDFViewerScreenState extends State<PDFViewerScreen> {
     setState(() {
       currentMode = mode;
       if (mode == DrawingMode.highlighter) {
-        currentColor = Colors.yellow.withOpacity(0.5);
+        currentColor = Colors.yellow.withValues(alpha: 0.5);
         currentStrokeWidth = 15.0;
       } else if (mode == DrawingMode.pen) {
         currentColor = Colors.red;
